@@ -1,4 +1,4 @@
-# US E-Commerce Intelligence 2020
+# US E-Commerce Intelligence
 
 ## Project Objective
 Analyze US e-commerce data to identify trends, customer behavior, and operational insights.
